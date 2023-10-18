@@ -71,7 +71,7 @@ nav {
 }
 nav > a {
     color: var(--cor01);
-    padding: 10px;
+    padding: 05px;
     text-decoration: none;
     font-weight: bold;
 }
