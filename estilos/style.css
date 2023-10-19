@@ -28,6 +28,7 @@
     margin: 0px;
     padding: 0px;
 }
+
 body { 
     background-color: var(--cor00);
     font-family: var(--fonte-padrao);
@@ -98,11 +99,13 @@ main img {
   width: 100%;  
 
 }
+
 main img.pequena {
     max-width: 350px;
     display: block;
     margin: auto;
 }
+
 main h1 {
     color: var(--cor05);
     font-family: 'android', 'cursive';
